@@ -89,7 +89,8 @@
   
   header {
     height: 100vh;
-    background-image: url(assests/bg1.webp);
+    
+    background-image: url(assests/about-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
